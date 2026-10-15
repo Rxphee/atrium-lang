@@ -1,1 +1,26 @@
-{}
+{
+    "header.back": "Zurück",
+    "header.backButton.arialLabel": "Zurück",
+    "header.breadcrumbs.home": "Startseite",
+    "header.closeBreadcrumbs": "Breadcrumbs schließen",
+    "header.closeButton.arialLabel": "Menü schließen",
+    "header.closeMenu": "Menü schließen",
+    "header.menu.arialLabel": "Menü",
+    "header.overview": "Übersicht",
+    "header.subMenu.arialLabel": "Untermenü von {name}",
+    "header.subMenu.closeButton": "Untermenü von {name} schließen",
+    "mediaGalleryBlock.nextSlide": "Nächstes Bild",
+    "mediaGalleryBlock.pagination": "{current} von {total}",
+    "mediaGalleryBlock.prevSlide": "Vorheriges Bild",
+    "notFound.pageNotFound": "Seite nicht gefunden.",
+    "notFound.returnHome": "Zur Startseite",
+    "playPauseButton.pause": "Pause",
+    "playPauseButton.play": "Abspielen",
+    "skipLink.skipToFooter": "Zum Footer springen",
+    "skipLink.skipToMainContent": "Zum Hauptinhalt springen",
+    "swiper.nextButton.ariaLabel": "Nächste Folie",
+    "swiper.nextButton.lastSlide.ariaLabel": "Das ist die letzte Folie",
+    "swiper.paginationBullet.ariaLabel": "Zu Folie {index}",
+    "swiper.prevButton.ariaLabel": "Vorherige Folie",
+    "swiper.prevButton.firstSlide.ariaLabel": "Das ist die erste Folie"
+}

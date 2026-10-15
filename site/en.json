@@ -1,1 +1,26 @@
-{}
+{
+    "header.back": "Back",
+    "header.backButton.arialLabel": "Go back",
+    "header.breadcrumbs.home": "Home",
+    "header.closeBreadcrumbs": "Close Breadcrumbs",
+    "header.closeButton.arialLabel": "Close Menu",
+    "header.closeMenu": "Close Menu",
+    "header.menu.arialLabel": "Menu",
+    "header.overview": "Overview",
+    "header.subMenu.arialLabel": "Submenu of {name}",
+    "header.subMenu.closeButton": "Close submenu of {name}",
+    "mediaGalleryBlock.nextSlide": "Next slide",
+    "mediaGalleryBlock.pagination": "{current} of {total}",
+    "mediaGalleryBlock.prevSlide": "Previous slide",
+    "notFound.pageNotFound": "Page not found.",
+    "notFound.returnHome": "Return home",
+    "playPauseButton.pause": "Pause",
+    "playPauseButton.play": "Play",
+    "skipLink.skipToFooter": "Skip to footer",
+    "skipLink.skipToMainContent": "Skip to main content",
+    "swiper.nextButton.ariaLabel": "Next slide",
+    "swiper.nextButton.lastSlide.ariaLabel": "This is the last slide",
+    "swiper.paginationBullet.ariaLabel": "Go to slide {index}",
+    "swiper.prevButton.ariaLabel": "Previous slide",
+    "swiper.prevButton.firstSlide.ariaLabel": "This is the first slide"
+}
