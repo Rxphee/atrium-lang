@@ -154,6 +154,7 @@
     "standaloneCallToActionList.direction": "Anordnung",
     "standaloneCallToActionList.direction.column": "untereinander",
     "standaloneCallToActionList.direction.row": "nebeneinander",
+    "standaloneCallToActionList.isFullWidth": "Volle Breite",
     "standaloneHeading.textAlignment": "Textausrichtung",
     "standaloneHeading.textAlignment.center": "zentriert",
     "standaloneHeading.textAlignment.left": "links",

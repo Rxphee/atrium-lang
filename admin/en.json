@@ -154,6 +154,7 @@
     "standaloneCallToActionList.direction": "Arrangement",
     "standaloneCallToActionList.direction.column": "stacked",
     "standaloneCallToActionList.direction.row": "side by side",
+    "standaloneCallToActionList.isFullWidth": "Full width",
     "standaloneHeading.textAlignment": "Text alignment",
     "standaloneHeading.textAlignment.center": "center",
     "standaloneHeading.textAlignment.left": "left",
