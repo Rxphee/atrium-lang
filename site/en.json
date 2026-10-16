@@ -17,7 +17,7 @@
     "imageGridBlock.next": "Next image",
     "imageGridBlock.previous": "Previous image",
     "mapBlock.load": "Show map",
-    "mapBlock.notice": "The map is loaded from Google Maps. Only then is data such as the IP address transferred to Google.",
+    "mapBlock.notice": "The map is provided by Google Maps and only loads after a click on “Show map”. Until then, no data is sent to Google. Once it loads, data such as the IP address is transferred to Google Ireland Limited and may also be processed in the USA, and Google may set cookies.",
     "mapBlock.title": "Map of {name}",
     "mediaGalleryBlock.nextSlide": "Next slide",
     "mediaGalleryBlock.pagination": "{current} of {total}",

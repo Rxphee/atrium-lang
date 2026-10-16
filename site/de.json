@@ -17,7 +17,7 @@
     "imageGridBlock.next": "Nächstes Bild",
     "imageGridBlock.previous": "Vorheriges Bild",
     "mapBlock.load": "Karte anzeigen",
-    "mapBlock.notice": "Die Karte wird von Google Maps geladen. Erst dann werden Daten wie die IP-Adresse an Google übertragen.",
+    "mapBlock.notice": "Die Karte stammt von Google Maps und wird erst nach einem Klick auf „Karte anzeigen“ geladen. Bis dahin werden keine Daten an Google gesendet. Danach werden Daten wie die IP-Adresse an Google Ireland Limited übertragen und möglicherweise auch in den USA verarbeitet, und Google kann Cookies setzen.",
     "mapBlock.title": "Karte von {name}",
     "mediaGalleryBlock.nextSlide": "Nächstes Bild",
     "mediaGalleryBlock.pagination": "{current} von {total}",
