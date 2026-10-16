@@ -26,6 +26,7 @@
     "notFound.returnHome": "Return home",
     "playPauseButton.pause": "Pause",
     "playPauseButton.play": "Play",
+    "profileBlock.enlargeImage": "Enlarge the image of {name}",
     "skipLink.skipToFooter": "Skip to footer",
     "skipLink.skipToMainContent": "Skip to main content",
     "swiper.nextButton.ariaLabel": "Next slide",

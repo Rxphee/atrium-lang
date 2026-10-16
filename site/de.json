@@ -26,6 +26,7 @@
     "notFound.returnHome": "Zur Startseite",
     "playPauseButton.pause": "Pause",
     "playPauseButton.play": "Abspielen",
+    "profileBlock.enlargeImage": "Bild von {name} vergrößern",
     "skipLink.skipToFooter": "Zum Footer springen",
     "skipLink.skipToMainContent": "Zum Hauptinhalt springen",
     "swiper.nextButton.ariaLabel": "Nächste Folie",
