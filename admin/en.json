@@ -119,6 +119,8 @@
     "mapBlock.displayName": "Map",
     "mapBlock.location": "Location",
     "mapBlock.location.helperText": "An address or coordinates, as you would search for them in Google Maps",
+    "mapBlock.title": "Title",
+    "mapBlock.title.helperText": "Shown until the map is loaded, for example the name of the company. Without a title the location is shown",
     "mediaBlock.displayName": "Media",
     "mediaGalleryBlock.mediaGallery.aspectRatio": "Aspect Ratio",
     "mediaGalleryBlock.mediaGallery.displayName": "Media Gallery",

@@ -18,7 +18,7 @@
     "imageGridBlock.previous": "Vorheriges Bild",
     "mapBlock.load": "Karte anzeigen",
     "mapBlock.notice": "Die Karte wird von Google Maps geladen. Erst dann werden Daten wie die IP-Adresse an Google übertragen.",
-    "mapBlock.title": "Karte von {location}",
+    "mapBlock.title": "Karte von {name}",
     "mediaGalleryBlock.nextSlide": "Nächstes Bild",
     "mediaGalleryBlock.pagination": "{current} von {total}",
     "mediaGalleryBlock.prevSlide": "Vorheriges Bild",
