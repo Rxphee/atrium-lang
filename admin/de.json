@@ -30,6 +30,8 @@
     "boxBlock.backgroundColor.lightGray": "Hellgrau",
     "boxBlock.content": "Inhalt",
     "boxBlock.displayName": "Box",
+    "boxBlock.isFullHeight": "Volle Höhe der Spalte",
+    "boxBlock.isFullHeight.helperText": "Boxen nebeneinander werden gleich hoch, und der letzte Block rückt nach unten. Wirkt nicht bei einer Box, die beim Scrollen sichtbar bleibt",
     "boxBlock.isSticky": "Beim Scrollen sichtbar halten",
     "callToActionBlock.displayName": "Call To Action",
     "callToActionBlock.link.displayName": "Link",

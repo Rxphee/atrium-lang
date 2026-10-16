@@ -30,6 +30,8 @@
     "boxBlock.backgroundColor.lightGray": "Light Gray",
     "boxBlock.content": "Content",
     "boxBlock.displayName": "Box",
+    "boxBlock.isFullHeight": "Full height of the column",
+    "boxBlock.isFullHeight.helperText": "Boxes side by side become equally high, and the last block moves to the bottom. Has no effect on a box that keeps visible while scrolling",
     "boxBlock.isSticky": "Keep visible while scrolling",
     "callToActionBlock.displayName": "Call To Action",
     "callToActionBlock.link.displayName": "Link",
