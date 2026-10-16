@@ -163,7 +163,7 @@
     "spaceBlock.d200": "Dynamic 200",
     "spaceBlock.d300": "Dynamic 300",
     "spaceBlock.d400": "Dynamic 400",
-    "spaceBlock.flexible": "Flexible (fills a box with full height)",
+    "spaceBlock.flexible": "Flexible",
     "spaceBlock.s100": "Static 100",
     "spaceBlock.s200": "Static 200",
     "spaceBlock.s300": "Static 300",
