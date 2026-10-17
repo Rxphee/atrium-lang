@@ -185,6 +185,8 @@
     "standaloneHeading.textAlignment.center": "zentriert",
     "standaloneHeading.textAlignment.left": "links",
     "standaloneMedia.aspectRatio": "Seitenverhältnis",
+    "standaloneMedia.isEnlargeable": "Bild beim Klick vergrößern",
+    "standaloneMedia.isEnlargeable.helperText": "Öffnet das ganze Bild über der Seite. Nur für Bilder",
     "standaloneRichText.textAlignment": "Textausrichtung",
     "standaloneRichText.textAlignment.center": "zentriert",
     "standaloneRichText.textAlignment.justify": "Blocksatz",

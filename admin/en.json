@@ -185,6 +185,8 @@
     "standaloneHeading.textAlignment.center": "center",
     "standaloneHeading.textAlignment.left": "left",
     "standaloneMedia.aspectRatio": "Aspect Ratio",
+    "standaloneMedia.isEnlargeable": "Enlarge the image on click",
+    "standaloneMedia.isEnlargeable.helperText": "Opens the whole image above the page. Only for images",
     "standaloneRichText.textAlignment": "Text alignment",
     "standaloneRichText.textAlignment.center": "center",
     "standaloneRichText.textAlignment.justify": "justify",
