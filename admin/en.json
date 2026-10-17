@@ -13,6 +13,8 @@
     "basicStageBlock.alignment.left": "left",
     "basicStageBlock.callToActionList": "Call To Action List",
     "basicStageBlock.displayName": "Basic Stage",
+    "basicStageBlock.hasScrollHint": "Show a scroll hint",
+    "basicStageBlock.hasScrollHint.helperText": "A small arrow at the bottom edge that leads to the content below",
     "basicStageBlock.media": "Media",
     "basicStageBlock.overlay": "Overlay",
     "basicStageBlock.text": "Text",

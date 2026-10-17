@@ -13,6 +13,8 @@
     "basicStageBlock.alignment.left": "links",
     "basicStageBlock.callToActionList": "Call To Action List",
     "basicStageBlock.displayName": "Einfache Stage",
+    "basicStageBlock.hasScrollHint": "Hinweis zum Weiterscrollen zeigen",
+    "basicStageBlock.hasScrollHint.helperText": "Ein kleiner Pfeil am unteren Rand, der zum Inhalt darunter führt",
     "basicStageBlock.media": "Medien",
     "basicStageBlock.overlay": "Überlagerung",
     "basicStageBlock.text": "Text",

@@ -29,6 +29,7 @@
     "profileBlock.enlargeImage": "Bild von {name} vergrößern",
     "skipLink.skipToFooter": "Zum Footer springen",
     "skipLink.skipToMainContent": "Zum Hauptinhalt springen",
+    "stageScrollHint.label": "Mehr entdecken",
     "swiper.nextButton.ariaLabel": "Nächste Folie",
     "swiper.nextButton.lastSlide.ariaLabel": "Das ist die letzte Folie",
     "swiper.paginationBullet.ariaLabel": "Zu Folie {index}",

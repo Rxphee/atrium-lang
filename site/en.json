@@ -29,6 +29,7 @@
     "profileBlock.enlargeImage": "Enlarge the image of {name}",
     "skipLink.skipToFooter": "Skip to footer",
     "skipLink.skipToMainContent": "Skip to main content",
+    "stageScrollHint.label": "Discover more",
     "swiper.nextButton.ariaLabel": "Next slide",
     "swiper.nextButton.lastSlide.ariaLabel": "This is the last slide",
     "swiper.paginationBullet.ariaLabel": "Go to slide {index}",
