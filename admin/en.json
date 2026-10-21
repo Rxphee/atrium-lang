@@ -167,6 +167,7 @@
     "scrollVideoBlock.scrollLength.long": "Long (three screens)",
     "scrollVideoBlock.scrollLength.medium": "Medium (two screens)",
     "scrollVideoBlock.scrollLength.short": "Short (one screen)",
+    "siteDocumentHead.title": "{siteName} – Admin",
     "spaceBlock.d100": "Dynamic 100",
     "spaceBlock.d200": "Dynamic 200",
     "spaceBlock.d300": "Dynamic 300",
