@@ -34,5 +34,12 @@
     "swiper.nextButton.lastSlide.ariaLabel": "Das ist die letzte Folie",
     "swiper.paginationBullet.ariaLabel": "Zu Folie {index}",
     "swiper.prevButton.ariaLabel": "Vorherige Folie",
-    "swiper.prevButton.firstSlide.ariaLabel": "Das ist die erste Folie"
+    "swiper.prevButton.firstSlide.ariaLabel": "Das ist die erste Folie",
+    "weiklNotFound.eyebrow": "Fehler 404",
+    "weiklNotFound.returnHome": "Zurück zur Startseite",
+    "weiklNotFound.sceneLabel": "Ein oranger Bagger gräbt eine Grube und kippt den Aushub auf einen Haufen. Unten in der Grube liegt eine verschüttete Webseite.",
+    "weiklNotFound.signFirstLine": "Hier wird",
+    "weiklNotFound.signSecondLine": "noch gebaut",
+    "weiklNotFound.text": "Die Seite, die du suchst, gibt es hier nicht. Vielleicht hat sich die Adresse geändert oder der Link ist veraltet.",
+    "weiklNotFound.title": "Da haben wir wohl zu tief gegraben."
 }

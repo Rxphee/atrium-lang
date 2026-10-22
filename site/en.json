@@ -34,5 +34,12 @@
     "swiper.nextButton.lastSlide.ariaLabel": "This is the last slide",
     "swiper.paginationBullet.ariaLabel": "Go to slide {index}",
     "swiper.prevButton.ariaLabel": "Previous slide",
-    "swiper.prevButton.firstSlide.ariaLabel": "This is the first slide"
+    "swiper.prevButton.firstSlide.ariaLabel": "This is the first slide",
+    "weiklNotFound.eyebrow": "Error 404",
+    "weiklNotFound.returnHome": "Back to the home page",
+    "weiklNotFound.sceneLabel": "An orange excavator digs a pit and dumps the soil on a pile. At the bottom of the pit lies a buried web page.",
+    "weiklNotFound.signFirstLine": "Under",
+    "weiklNotFound.signSecondLine": "construction",
+    "weiklNotFound.text": "The page you are looking for does not exist. Its address may have changed, or the link is out of date.",
+    "weiklNotFound.title": "Looks like we dug too deep."
 }
