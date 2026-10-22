@@ -113,6 +113,7 @@
     "keyFactsItemBlock.description": "Description",
     "keyFactsItemBlock.displayName": "Key Fact",
     "keyFactsItemBlock.fact": "Fact",
+    "keyFactsItemBlock.graphic": "Graphic",
     "keyFactsItemBlock.icon": "Icon",
     "keyFactsItemBlock.label": "Label",
     "keyFactsItemsBlock.displayName": "Key facts",

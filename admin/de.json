@@ -113,6 +113,7 @@
     "keyFactsItemBlock.description": "Beschreibung",
     "keyFactsItemBlock.displayName": "Kennzahl",
     "keyFactsItemBlock.fact": "Wert",
+    "keyFactsItemBlock.graphic": "Grafik",
     "keyFactsItemBlock.icon": "Icon",
     "keyFactsItemBlock.label": "Bezeichnung",
     "keyFactsItemsBlock.displayName": "Kennzahlen",
