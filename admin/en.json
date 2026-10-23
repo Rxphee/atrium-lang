@@ -154,7 +154,6 @@
     "pages.pages.page.edit.stage.title": "Stage",
     "pixelTextBlock.displayName": "Pixel text",
     "pixelTextBlock.text": "Text",
-    "pixelTextBlock.text.helperText": "{length} of {maxLength} characters. Drawn from pixels that dodge the pointer, for example a name. Wraps onto more lines where it would get too small",
     "profileBlock.badge": "Badge",
     "profileBlock.badge.helperText": "For example the role, shown above the name",
     "profileBlock.description": "Description",
