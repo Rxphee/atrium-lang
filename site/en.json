@@ -1,6 +1,7 @@
 {
     "dataList.copied": "Copied",
     "dataList.copy": "Copy",
+    "deviceFrame.chips.ariaLabel": "Choose a screen",
     "header.back": "Back",
     "header.backButton.arialLabel": "Go back",
     "header.breadcrumbs.home": "Home",
