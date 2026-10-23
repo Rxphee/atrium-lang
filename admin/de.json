@@ -154,7 +154,7 @@
     "pages.pages.page.edit.stage.title": "Stage",
     "pixelTextBlock.displayName": "Pixeltext",
     "pixelTextBlock.text": "Text",
-    "pixelTextBlock.text.helperText": "Aus Pixeln gezeichnet, die dem Mauszeiger ausweichen. Bis zu {maxLength} Zeichen, etwa ein Name. Auf schmalen Bildschirmen bricht er an einem Leerzeichen in zwei Zeilen um",
+    "pixelTextBlock.text.helperText": "{length} von {maxLength} Zeichen. Aus Pixeln gezeichnet, die dem Mauszeiger ausweichen, etwa ein Name. Bricht in weitere Zeilen um, wo er zu klein würde",
     "profileBlock.badge": "Badge",
     "profileBlock.badge.helperText": "Zum Beispiel die Rolle, steht über dem Namen",
     "profileBlock.description": "Beschreibung",
