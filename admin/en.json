@@ -83,6 +83,7 @@
     "deviceFrameBlock.screen.media": "Media",
     "deviceFrameBlock.screen.path": "Path in the address bar",
     "deviceFrameBlock.screenDuration": "Seconds per image",
+    "deviceFrameBlock.screenDuration.error": "Between {min} and {max} seconds",
     "deviceFrameBlock.screens": "Screens",
     "deviceFrameBlock.screens.itemName": "screen",
     "deviceFrameBlock.screens.itemsName": "screens",

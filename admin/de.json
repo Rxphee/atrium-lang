@@ -83,6 +83,7 @@
     "deviceFrameBlock.screen.media": "Medien",
     "deviceFrameBlock.screen.path": "Pfad in der Adresszeile",
     "deviceFrameBlock.screenDuration": "Sekunden pro Bild",
+    "deviceFrameBlock.screenDuration.error": "Zwischen {min} und {max} Sekunden",
     "deviceFrameBlock.screens": "Bildschirme",
     "deviceFrameBlock.screens.itemName": "Bildschirm",
     "deviceFrameBlock.screens.itemsName": "Bildschirme",
