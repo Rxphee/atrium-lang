@@ -209,7 +209,6 @@
     "projects.status.inProgress": "In progress",
     "projects.status.live": "Live",
     "projects.title": "Title",
-    "projects.validate.onlySpaces": "Must not consist of spaces only",
     "richTextBlock.displayName": "Rich Text",
     "richTextBlock.heading": "Heading {level}",
     "richTextBlock.muted": "Muted",
@@ -288,5 +287,6 @@
     "terminalBlock.lines.itemsName": "lines",
     "terminalBlock.prompt": "Prompt",
     "terminalBlock.prompt.helperText": "Stands before every command, e.g. user@host:~$. The part before the first colon is shown in the accent color",
-    "terminalBlock.title": "Window title"
+    "terminalBlock.title": "Window title",
+    "validation.onlySpaces": "Must not consist of spaces only"
 }

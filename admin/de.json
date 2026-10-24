@@ -209,7 +209,6 @@
     "projects.status.inProgress": "In Arbeit",
     "projects.status.live": "Läuft",
     "projects.title": "Titel",
-    "projects.validate.onlySpaces": "Darf nicht nur aus Leerzeichen bestehen",
     "richTextBlock.displayName": "Richtext",
     "richTextBlock.heading": "Überschrift {level}",
     "richTextBlock.muted": "Gedämpft",
@@ -288,5 +287,6 @@
     "terminalBlock.lines.itemsName": "Zeilen",
     "terminalBlock.prompt": "Prompt",
     "terminalBlock.prompt.helperText": "Steht vor jedem Befehl, z. B. benutzer@host:~$. Der Teil vor dem ersten Doppelpunkt steht in der Akzentfarbe",
-    "terminalBlock.title": "Fenstertitel"
+    "terminalBlock.title": "Fenstertitel",
+    "validation.onlySpaces": "Darf nicht nur aus Leerzeichen bestehen"
 }
