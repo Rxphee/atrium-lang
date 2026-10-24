@@ -209,7 +209,6 @@
     "projects.status.inProgress": "In Arbeit",
     "projects.status.live": "Läuft",
     "projects.title": "Titel",
-    "projects.validate.maxLength": "Höchstens {maxLength} Zeichen, gerade {length}",
     "projects.validate.onlySpaces": "Darf nicht nur aus Leerzeichen bestehen",
     "richTextBlock.displayName": "Richtext",
     "richTextBlock.heading": "Überschrift {level}",

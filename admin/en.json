@@ -209,7 +209,6 @@
     "projects.status.inProgress": "In progress",
     "projects.status.live": "Live",
     "projects.title": "Title",
-    "projects.validate.maxLength": "At most {maxLength} characters, currently {length}",
     "projects.validate.onlySpaces": "Must not consist of spaces only",
     "richTextBlock.displayName": "Rich Text",
     "richTextBlock.heading": "Heading {level}",
