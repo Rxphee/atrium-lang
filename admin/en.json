@@ -60,7 +60,6 @@
     "contactBlock.email.helperText": "Shown large and opens the mail program when clicked",
     "contactBlock.eyebrow": "Eyebrow",
     "contactBlock.headline": "Headline",
-    "contactBlock.headline.error": "The headline must not be empty",
     "contactBlock.text": "Text",
     "contentGroupBlock.backgroundColor.darkGray": "Dark Gray",
     "contentGroupBlock.backgroundColor.default": "Default",

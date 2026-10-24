@@ -60,7 +60,6 @@
     "contactBlock.email.helperText": "Wird groß angezeigt und öffnet beim Klick das Mailprogramm",
     "contactBlock.eyebrow": "Dachzeile",
     "contactBlock.headline": "Überschrift",
-    "contactBlock.headline.error": "Die Überschrift darf nicht leer sein",
     "contactBlock.text": "Text",
     "contentGroupBlock.backgroundColor.darkGray": "Dunkelgrau",
     "contentGroupBlock.backgroundColor.default": "Standard",
