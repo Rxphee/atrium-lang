@@ -32,7 +32,7 @@
     "portfolioFooter.love": "love",
     "profileBlock.enlargeImage": "Enlarge the image of {name}",
     "projectIndexBlock.projectCount": "{count, plural, one {# project} other {# projects}}",
-    "projectLayer.app": "App",
+    "projectLayer.apps": "Apps",
     "projectLayer.hardware": "Hardware",
     "projectLayer.lab": "Lab",
     "projectLayer.server": "Server",

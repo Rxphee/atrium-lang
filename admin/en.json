@@ -221,7 +221,7 @@
     "projects.isVisible": "Visible",
     "projects.isVisible.switchLabel": "Show the project on the site",
     "projects.layer": "Layer",
-    "projects.layer.app": "App",
+    "projects.layer.apps": "Apps",
     "projects.layer.hardware": "Hardware",
     "projects.layer.lab": "Lab",
     "projects.layer.server": "Server",

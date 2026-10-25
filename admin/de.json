@@ -221,7 +221,7 @@
     "projects.isVisible": "Sichtbar",
     "projects.isVisible.switchLabel": "Projekt auf der Site zeigen",
     "projects.layer": "Schicht",
-    "projects.layer.app": "App",
+    "projects.layer.apps": "Apps",
     "projects.layer.hardware": "Hardware",
     "projects.layer.lab": "Labor",
     "projects.layer.server": "Server",
