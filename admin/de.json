@@ -249,6 +249,7 @@
     "projects.status.inProgress": "In Arbeit",
     "projects.status.live": "Läuft",
     "projects.title": "Titel",
+    "renderLoopBlock.displayName": "Render-Loop",
     "richTextBlock.displayName": "Richtext",
     "richTextBlock.heading": "Überschrift {level}",
     "richTextBlock.muted": "Gedämpft",
