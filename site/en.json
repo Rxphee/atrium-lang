@@ -25,7 +25,7 @@
     "mediaGalleryBlock.nextSlide": "Next slide",
     "mediaGalleryBlock.pagination": "{current} of {total}",
     "mediaGalleryBlock.prevSlide": "Previous slide",
-    "moreProjectsBlock.label": "Projects of the layer {layer}",
+    "moreProjectsBlock.label": "{count, plural, one {Projects of the layer {layers}} other {Projects of the layers {layers}}}",
     "notFound.pageNotFound": "Page not found.",
     "notFound.returnHome": "Return home",
     "playPauseButton.pause": "Pause",

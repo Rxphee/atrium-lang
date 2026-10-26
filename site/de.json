@@ -25,7 +25,7 @@
     "mediaGalleryBlock.nextSlide": "Nächstes Bild",
     "mediaGalleryBlock.pagination": "{current} von {total}",
     "mediaGalleryBlock.prevSlide": "Vorheriges Bild",
-    "moreProjectsBlock.label": "Projekte der Schicht {layer}",
+    "moreProjectsBlock.label": "{count, plural, one {Projekte der Schicht {layers}} other {Projekte der Schichten {layers}}}",
     "notFound.pageNotFound": "Seite nicht gefunden.",
     "notFound.returnHome": "Zur Startseite",
     "playPauseButton.pause": "Pause",
