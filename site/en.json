@@ -1,6 +1,7 @@
 {
     "carousel.next": "Next",
     "carousel.previous": "Previous",
+    "circuitBoard.ariaLabel": "Circuit board with a microcontroller, a display controller and connectors",
     "dataList.copied": "Copied",
     "dataList.copy": "Copy",
     "deviceFrame.chips.ariaLabel": "Choose a screen",

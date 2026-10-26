@@ -1,6 +1,7 @@
 {
     "carousel.next": "Weiter",
     "carousel.previous": "Zurück",
+    "circuitBoard.ariaLabel": "Platine mit Mikrocontroller, Display-Controller und Anschlüssen",
     "dataList.copied": "Kopiert",
     "dataList.copy": "Kopieren",
     "deviceFrame.chips.ariaLabel": "Ansicht wählen",

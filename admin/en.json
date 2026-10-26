@@ -61,6 +61,8 @@
     "chipListBlock.chips.itemsName": "chips",
     "chipListBlock.displayName": "Chip list",
     "chipListBlock.label": "Label",
+    "circuitBoardBlock.caption": "Caption",
+    "circuitBoardBlock.displayName": "Circuit board",
     "columnsBlock.center.large": "Center large",
     "columnsBlock.center.medium": "Center medium",
     "columnsBlock.center.small": "Center small",

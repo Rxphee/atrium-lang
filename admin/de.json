@@ -61,6 +61,8 @@
     "chipListBlock.chips.itemsName": "Chips",
     "chipListBlock.displayName": "Chip-Liste",
     "chipListBlock.label": "Label",
+    "circuitBoardBlock.caption": "Beschriftung",
+    "circuitBoardBlock.displayName": "Platine",
     "columnsBlock.center.large": "Mittig groß",
     "columnsBlock.center.medium": "Mittig mittel",
     "columnsBlock.center.small": "Mittig klein",
