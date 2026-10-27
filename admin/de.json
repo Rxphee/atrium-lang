@@ -337,7 +337,7 @@
     "timelineBlock.item.category": "Kategorie",
     "timelineBlock.item.color": "Farbe",
     "timelineBlock.item.color.accent": "Akzentfarbe",
-    "timelineBlock.item.color.helperText": "Farbe von Punkt, Kategorie und der Linie dorthin. Die Farben 1 bis 5 legt die Site fest, auf der Portfolio Site etwa die Schichten in ihrer Reihenfolge; wo sie fehlen, gilt die Akzentfarbe",
+    "timelineBlock.item.color.helperText": "Farbe von Punkt, Kategorie und der Linie dorthin. Die Farben 1 bis 5 legt die Site fest",
     "timelineBlock.item.color.numbered": "Farbe {number}",
     "timelineBlock.item.content": "Inhalt",
     "timelineBlock.item.displayName": "Station",

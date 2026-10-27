@@ -337,7 +337,7 @@
     "timelineBlock.item.category": "Category",
     "timelineBlock.item.color": "Color",
     "timelineBlock.item.color.accent": "Accent color",
-    "timelineBlock.item.color.helperText": "Color of the dot, the category and the line leading to it. The site sets the colors 1 to 5, e.g. the layers on the portfolio site in their order; where it doesn't, they take the accent color",
+    "timelineBlock.item.color.helperText": "Color of the dot, the category and the line leading to it. The site sets the colors 1 to 5",
     "timelineBlock.item.color.numbered": "Color {number}",
     "timelineBlock.item.content": "Content",
     "timelineBlock.item.displayName": "Station",
