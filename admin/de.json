@@ -222,6 +222,8 @@
     "pdfBlock.displayName": "PDF-Dokument",
     "pdfBlock.fileName": "Dateiname",
     "pdfBlock.fileName.helperText": "Ohne .pdf, z. B. Raphael-Weikl-Lebenslauf",
+    "pdfBlock.showButton": "Button zum Speichern als PDF anzeigen",
+    "pdfBlock.showButton.helperText": "Ohne Button lässt sich das Blatt nicht für sich speichern oder drucken",
     "pdfBlock.showPreview": "A4-Vorschau auf der Seite anzeigen",
     "pdfBlock.showPreview.helperText": "Ohne Vorschau zeigt die Seite nur den Button, das Blatt erscheint erst beim Drucken",
     "pixelTextBlock.displayName": "Pixeltext",
