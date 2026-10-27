@@ -333,5 +333,18 @@
     "terminalBlock.prompt": "Prompt",
     "terminalBlock.prompt.helperText": "Stands before every command, e.g. user@host:~$. The part before the first colon is shown in the accent color",
     "terminalBlock.title": "Window title",
+    "timelineBlock.displayName": "Timeline",
+    "timelineBlock.item.color": "Color",
+    "timelineBlock.item.color.accent": "Accent color",
+    "timelineBlock.item.color.helperText": "Color of the dot, the marker and the line leading to it. The site sets the colors 1 to 5, e.g. the layers on the portfolio site in their order; where it doesn't, they take the accent color",
+    "timelineBlock.item.color.numbered": "Color {number}",
+    "timelineBlock.item.content": "Content",
+    "timelineBlock.item.displayName": "Station",
+    "timelineBlock.item.markerLabel": "Marker label",
+    "timelineBlock.item.period": "Period",
+    "timelineBlock.item.title": "Title",
+    "timelineBlock.items": "Stations",
+    "timelineBlock.items.itemName": "station",
+    "timelineBlock.items.itemsName": "stations",
     "validation.onlySpaces": "Must not consist of spaces only"
 }

@@ -333,5 +333,18 @@
     "terminalBlock.prompt": "Prompt",
     "terminalBlock.prompt.helperText": "Steht vor jedem Befehl, z. B. benutzer@host:~$. Der Teil vor dem ersten Doppelpunkt steht in der Akzentfarbe",
     "terminalBlock.title": "Fenstertitel",
+    "timelineBlock.displayName": "Zeitleiste",
+    "timelineBlock.item.color": "Farbe",
+    "timelineBlock.item.color.accent": "Akzentfarbe",
+    "timelineBlock.item.color.helperText": "Farbe von Punkt, Markierung und der Linie dorthin. Die Farben 1 bis 5 legt die Site fest, auf der Portfolio Site etwa die Schichten in ihrer Reihenfolge; wo sie fehlen, gilt die Akzentfarbe",
+    "timelineBlock.item.color.numbered": "Farbe {number}",
+    "timelineBlock.item.content": "Inhalt",
+    "timelineBlock.item.displayName": "Station",
+    "timelineBlock.item.markerLabel": "Beschriftung der Markierung",
+    "timelineBlock.item.period": "Zeitraum",
+    "timelineBlock.item.title": "Titel",
+    "timelineBlock.items": "Stationen",
+    "timelineBlock.items.itemName": "Station",
+    "timelineBlock.items.itemsName": "Stationen",
     "validation.onlySpaces": "Darf nicht nur aus Leerzeichen bestehen"
 }
