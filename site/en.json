@@ -16,6 +16,7 @@
     "header.overview": "Overview",
     "header.subMenu.arialLabel": "Submenu of {name}",
     "header.subMenu.closeButton": "Close submenu of {name}",
+    "header.subMenu.overviewLink": "Show all {name}",
     "imageGridBlock.close": "Close",
     "imageGridBlock.counter": "{current} / {total}",
     "imageGridBlock.lightbox": "Image viewer",
