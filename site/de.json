@@ -4,6 +4,7 @@
     "circuitBoard.ariaLabel": "Platine mit Mikrocontroller, Display-Controller und Anschlüssen",
     "dataList.copied": "Kopiert",
     "dataList.copy": "Kopieren",
+    "deviceFrame.carousel.ariaLabel": "Ansichten",
     "deviceFrame.chips.ariaLabel": "Ansicht wählen",
     "header.back": "Zurück",
     "header.backButton.arialLabel": "Zurück",
