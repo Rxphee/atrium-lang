@@ -94,7 +94,7 @@
     "dataListBlock.dataList.layout": "Layout",
     "dataListBlock.dataList.layout.grid": "Grid",
     "dataListBlock.dataList.layout.list": "List",
-    "dataListBlock.dataListItem.displayName": "Item",
+    "dataListBlock.dataListItem.displayName": "Data list item",
     "dataListBlock.dataListItem.hasCopyButton": "Show copy button",
     "dataListBlock.dataListItem.label": "Label",
     "dataListBlock.dataListItem.link": "Link",
