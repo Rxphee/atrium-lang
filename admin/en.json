@@ -262,6 +262,7 @@
     "projects.layer.server": "Server",
     "projects.layer.web": "Web",
     "projects.page": "Project page",
+    "projects.project": "Project",
     "projects.projects": "Projects",
     "projects.status": "Status",
     "projects.status.completed": "Completed",
