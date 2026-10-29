@@ -273,7 +273,7 @@
     "richTextBlock.heading": "Überschrift {level}",
     "richTextBlock.muted": "Gedämpft",
     "richTextBlock.paragraph": "Absatz",
-    "richTextBlock.paragraphSmall": "Kleiner Absatz",
+    "richTextBlock.paragraphSmall": "Absatz klein",
     "richTextBlock.paragraphStandard": "Absatz",
     "richTextBlock.placeholder.age": "Alter",
     "richTextBlock.placeholder.layerCount": "Anzahl der Schichten",
